@@ -1,3 +1,3 @@
 export const Component = () => {
-    return <h1>New Component</h1>
+    return <h1>Changed New Component</h1>
 }
