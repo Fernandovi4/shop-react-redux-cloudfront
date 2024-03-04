@@ -4,6 +4,6 @@ import { Component } from './Component'
 describe('<New Component/>', () => {
     it('renders title', () => {
         render(<Component />)
-        expect(screen.getByText('23:38 Changed New Component')).toBeInTheDocument()
+        expect(screen.getByText('23:43 Changed New Component')).toBeInTheDocument()
     })
 })
